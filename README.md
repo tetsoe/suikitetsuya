@@ -1,31 +1,32 @@
+# Suiki Tetsuya
 
-# Hi, I'm Suiki Tetsuya
+**Discord Server Specialist | Bot Developer | AI-Driven Digital Musician**
 
-**Discord Server Specialist | Bot Developer | AI-driven Music Artist**
+Suiki Tetsuya is a Discord specialist and bot developer focused on **community architecture**, **intelligent interaction**, and the **aesthetics of digital space**. Suiki builds servers that are clean, scalable, and human-centered—designed for creators, communities, and brands seeking meaningful online presence.
 
-I help online communities scale through clean, efficient Discord server setups, advanced role systems, and custom bot development.  
-I also create emotionally-driven music using AI tools and experimental digital workflows.
+Beyond infrastructure, Suiki also explores sound as a digital musician and AI-driven artist. Through experimental soundscapes, Suiki reflects on themes of **emotional fatigue**, **digital rebellion**, and **freedom after isolation**—giving voice to those often unheard in online spaces.
+
+For Suiki, technology isn't just a tool—it’s a **bridge for empathy and expression**.
 
 ---
 
 ### What I Do
 
-- Build **aesthetic & scalable Discord servers** for brands, communities, and creators  
-- Configure **advanced permissions**, roles, automations & onboarding flows  
-- Develop **custom bots** tailored for moderation, utility, or engagement  
-- Produce **AI-assisted music** that blends digital emotion with human storytelling  
-- Consult on **Discord architecture** for long-term growth & user experience  
+- Build **aesthetic & scalable** Discord servers  
+- Configure advanced **roles, permissions, and automation**  
+- Develop **custom bots** for moderation, utility, and community interaction  
+- Consult on community architecture for sustainable digital spaces  
 
 ---
 
-### Featured Links
+### Links
 
 - [YouTube](https://youtube.com/@suikitetsuya)  
 - [Instagram](https://instagram.com/suikitetsuya)  
 - [Twitter / X](https://x.com/Suiki_Tetsuya)  
 - [Join My Discord](https://dsc.gg/tetsoe)  
-- [Email me](mailto:tetsuyasfx@gmail.com)  
+- [Email](mailto:tetsuyasfx@gmail.com)  
 
 ---
 
-*“Making digital spaces more meaningful—one server and one song at a time.”*
+**“Designing digital systems with purpose, and art with feeling.”**
